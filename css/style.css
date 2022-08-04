@@ -112,14 +112,14 @@ img {
   transform: translate(150px, 5px);
 }
 
-.tasas {
+.table table-dark table-striped {
   margin-top: 2rem;
   max-width: 70%;
   border: 4px double white;
   transform: translate(150px, -15px);
 }
 
-.videoEmpresas {
+.rounded mx-auto d-block {
   margin-top: 2rem;
   margin-left: 30%;
   max-width: 2800px;
